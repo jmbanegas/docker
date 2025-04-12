@@ -54,9 +54,6 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
 - Videos educativos sobre el uso de contenedores Docker
 - Foros y comunidades como Stack Overflow y Docker Community
 
-  
-## 8. Procedimiento
-
 ## 8. Procedimiento
 ### Paso 1: Crea el primer contenedor Nginx llamado johanginx1 exponiendo el puerto 8089.
 Se inicia el contenedor johanginx1 en segundo plano, exponiendo el puerto interno 80 en el 8089 del host para acceder al servidor web.
