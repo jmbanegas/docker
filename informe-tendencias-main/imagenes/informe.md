@@ -81,6 +81,7 @@ Finalmente la pagina editada con la infomcaion del instituto.
 ### Paso 6: Repite el proceso para johanginx2.
 Ahora procedemos a hacer todos los pasos que se realizo con johanginx1 para johanginx2.
 <img src="img9.png" alt="Paso6" width="800">
+Se edita el archivo index2.html con un editor para agregar información del estudiante.
 <img src="img10.png" alt="Paso6" width="800">
 <img src="img11.png" alt="Paso6" width="800">
 <img src="img12.png" alt="Paso6" width="800">
