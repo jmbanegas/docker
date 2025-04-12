@@ -69,6 +69,7 @@ Se copia el archivo index.html desde el contenedor johanginx1 al host como index
 <img src="img4.png" alt="Paso3" width="800">
 
 ### Paso 4: Edita el archivo index1.html con un editor ocupamos vi, sobre la información del instituto.
+
 Se edita el archivo index1.html con un editor para agregar información del instituto.
 <img src="img5.png" alt="Paso4" width="800">
 
@@ -81,6 +82,7 @@ Finalmente la pagina editada con la infomcaion del instituto.
 ### Paso 6: Repite el proceso para johanginx2.
 Ahora procedemos a hacer todos los pasos que se realizo con johanginx1 para johanginx2.
 <img src="img9.png" alt="Paso6" width="800">
+
 Se edita el archivo index2.html con un editor para agregar información del estudiante.
 <img src="img10.png" alt="Paso6" width="800">
 <img src="img11.png" alt="Paso6" width="800">
@@ -91,7 +93,11 @@ Ambos contenedores Nginx (nginx1 y nginx2) se ejecutaron sin problemas, cada uno
 
 ## 10. Bibliografía
 Docker Inc. (2024). Docker Documentation. Recuperado de https://docs.docker.com/
+
 Nginx Inc. (2024). NGINX Documentation. Recuperado de https://www.nginx.com/resources/wiki/
+
 Negus, C. (2020). Docker for Dummies. Wiley.
+
 Shotts, W. E. (2019). The Linux Command Line: A Complete Introduction (2.ª ed.). No Starch Press.
+
 Stack Overflow. (2024). Docker & Linux discussions. Recuperado de https://stackoverflow.com/
